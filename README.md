@@ -1,3 +1,5 @@
+<b> NOTE: This is a current work in progess. </b>
+
 # Chicago-COPA-Dataset
 
 The Dataset used in this project can be found at: https://www.kaggle.com/chicago/chicago-copa-cases/version/20
