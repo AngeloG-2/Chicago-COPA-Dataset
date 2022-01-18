@@ -29,6 +29,8 @@ This project consists of two files.
 
       All three have a very weak correlation but are statistically significant 
       due to extremely small p-values. 
+      
+      Further improvement in methodologies and further study is required to yield more evident results.
 
 ![image](https://user-images.githubusercontent.com/40840760/149868620-1cb3279e-ea3b-4cae-9ebe-f286dd806032.png)
 
