@@ -15,9 +15,13 @@ NOTE: This project is a work in progress.
 
 This project consists of two files.
 
-1. Chicago COPA - Data Cleaning. This notebook focuses on cleaning and transforming raw data into more useful forms. Unfortunately, some columns in this dataset are extremely dirty and I had to perform extensive data cleaning.
+1. Chicago COPA - Data Cleaning.ipynb -> This notebook focuses on cleaning and transforming raw data into more useful forms. Unfortunately, some columns in this dataset are extremely dirty and I had to perform extensive data cleaning.
 
-2. Chicago COPA - Analysis. This notebook performs an extensive analysis of the races of police officers and complainants.
+2. Chicago COPA - Analysis.ipynb -> This notebook performs an extensive analysis of the races of police officers and complainants.
+
+3. no_bia_with_officer_information.csv -> Cleaned dataset with all nesscessary columns.
+
+4. copa-cases-summary.csv -> Original Dataset.
 
 # Summary of Findings
 
