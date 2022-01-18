@@ -45,7 +45,7 @@ GENERAL FACTS:
 ![image](https://user-images.githubusercontent.com/40840760/149868844-d0ed4c87-1a15-4b6c-9b38-f0ee9008f601.png)
 
 
-RACE MAJORITY STUDY:
+ <font size="4"> <b> RACE MAJORITY STUDY: </b> </font>
 
 ![image](https://user-images.githubusercontent.com/40840760/149868933-0f00ff03-58e0-4d5c-885d-7898d253b46a.png)
 
