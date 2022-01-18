@@ -19,7 +19,7 @@ This project consists of two files.
 
 # Summary of Findings
 
-CORRELATION STUDY:
+<font size="8"> <b> CORRELATION STUDY: </b> </font>
 
       1. The more black complainants are involved, the greater number of black police officers are involved.
       2. The more Hispanic complainants are involved, the greater number of Hispanic police officers are involved.
@@ -33,7 +33,7 @@ CORRELATION STUDY:
 ![image](https://user-images.githubusercontent.com/40840760/149868710-083c25e9-42dd-492f-8b20-8bff387ce939.png)
 
 
-GENERAL FACTS:
+ <font size="8"> <b> GENERAL FACTS: </b> </font>
 
       1. Approximately 94% of complaints involve 3 or less police officers
       2. 66% of complaints only involve 1 police officer.
@@ -45,7 +45,7 @@ GENERAL FACTS:
 ![image](https://user-images.githubusercontent.com/40840760/149868844-d0ed4c87-1a15-4b6c-9b38-f0ee9008f601.png)
 
 
- <font size="4"> <b> RACE MAJORITY STUDY: </b> </font>
+ <font size="8"> <b> RACE MAJORITY STUDY: </b> </font>
 
 ![image](https://user-images.githubusercontent.com/40840760/149868933-0f00ff03-58e0-4d5c-885d-7898d253b46a.png)
 
