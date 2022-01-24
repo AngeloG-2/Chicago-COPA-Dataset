@@ -56,9 +56,18 @@ This project consists of two files.
 
 
  <font size="8"> <b> RACE MAJORITY STUDY: </b> </font>
+ 
+<b>NOTE: THIS SECTION IS A WORK IN PROGRESS.                  </b>
+ 
+The race majority study aims to analyze the races of police officers being reported by complainants in cases where most complainants are of one race. This type of analysis is performed to answer the following question:
+
+Is a specific race of complainants more likely to file a report against a particular race of police officer. For example, are white complainants more likely to file a complaint against Hispanic police officers? If so, in what types of mistreatment allegations?
+
+The graphs below show the distribution of police officer races where most complainants are black.
 
 ![image](https://user-images.githubusercontent.com/40840760/149868933-0f00ff03-58e0-4d5c-885d-7898d253b46a.png)
 
+The graph below shows the relative frequency of police officers' races where most complainants are black.
 
 ![image](https://user-images.githubusercontent.com/40840760/149868966-25e84b39-99a9-46bc-9eaf-bfd8bbf34f71.png)
 
