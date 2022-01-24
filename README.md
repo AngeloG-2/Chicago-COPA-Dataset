@@ -42,6 +42,10 @@ This project consists of two files.
 
 ![image](https://user-images.githubusercontent.com/40840760/149868710-083c25e9-42dd-492f-8b20-8bff387ce939.png)
 
+![image](https://user-images.githubusercontent.com/40840760/150880671-64621cd2-bbc4-4323-b12e-19833026b624.png)
+
+![image](https://user-images.githubusercontent.com/40840760/150880717-91d10464-bc95-4a11-8aaf-a8c026822157.png)
+
 
  <font size="8"> <b> GENERAL FACTS: </b> </font>
 
