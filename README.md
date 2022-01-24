@@ -1,6 +1,6 @@
 <b> NOTE: This project is a current work in progess. </b>
 
-<b> I spent 35+ hours and about 1 month on this project </b>
+<b> I spent 35+ hours and about 1 month on this project. </b>
  
 # Chicago-COPA-Dataset
 
