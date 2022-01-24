@@ -1,4 +1,4 @@
-<b> NOTE: This is a current work in progess. </b>
+<b> NOTE: This project is a current work in progess. </b>
 
 # Chicago-COPA-Dataset
 
