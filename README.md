@@ -1,5 +1,7 @@
 <b> NOTE: This project is a current work in progess. </b>
 
+<b> I spent 35+ hours and about 1 month on this project </b>
+ 
 # Chicago-COPA-Dataset
 
 The Dataset used in this project can be found at: https://www.kaggle.com/chicago/chicago-copa-cases/version/20
