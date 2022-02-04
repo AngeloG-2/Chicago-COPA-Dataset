@@ -47,7 +47,7 @@ This project consists of two files.
 ![image](https://user-images.githubusercontent.com/40840760/150880717-91d10464-bc95-4a11-8aaf-a8c026822157.png)
 
 
- <font size="8"> <b> GENERAL FACTS: </b> </font>
+  <p align=center> <font size="8"> <b> GENERAL FACTS: </b> </font> </p>
 
       1. Approximately 94% of complaints involve 3 or less police officers
       2. 66% of complaints only involve 1 police officer.
