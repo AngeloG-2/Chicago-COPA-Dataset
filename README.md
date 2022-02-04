@@ -82,7 +82,7 @@ Findings:
 <b>Below is a graph of relative rates of how much each complainant race files a complaint against HISPANIC police officers.</b>
 
 Findings:
-1.	Hispanic complainants have the highest rates of reporting other Hispanic police officers. 67% of officers reported by Hispanic complainants are Hispanic police officers.
+1.	Hispanic complainants have the highest rates of reporting other Hispanic police officers. 36% of officers reported by Hispanic complainants are Hispanic police officers.
 2.	Native complainants have the lowest rates of reporting Hispanic police officers, around 8.3%.
 3.	Whites, Unknowns and Blacks all have the same rates of filing a complaint against Hispanic police officers.
 
