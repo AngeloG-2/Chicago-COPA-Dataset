@@ -40,10 +40,13 @@ This project consists of two files.
       
 ![image](https://user-images.githubusercontent.com/40840760/152616367-9cbd4aa4-bbef-438c-8bf1-04936fbdf3c6.png)
 
+The more black complainants are involved, the greater number of black police officers are involved.
 ![image](https://user-images.githubusercontent.com/40840760/152615114-3060b0cf-ca79-46e5-a793-2b5fd5f07649.png)
 
+The more Hispanic complainants are involved, the greater number of Hispanic police officers are involved.
 ![image](https://user-images.githubusercontent.com/40840760/152615146-d68aa539-26ae-4dc0-a9ad-e72719235c2c.png)
 
+The more white complainants are involved, the greater number of white police officers are involved.
 ![image](https://user-images.githubusercontent.com/40840760/152615174-2e978d98-a16e-4d2b-a5d4-21d25c223c1d.png)
 
 ![image](https://user-images.githubusercontent.com/40840760/152616483-db122553-3ef4-4c79-94f3-ff3fb17b3f2d.png)
