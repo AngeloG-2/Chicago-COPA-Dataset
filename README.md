@@ -35,11 +35,9 @@ This project consists of two files.
       4. The more Hispanic complainants are involved, the lesser number of black police officers get involved.
       5. The more white complainants are involved, the lesser number of black police officers get involved.
 
-      All three have a very weak correlation but are statistically significant 
+      All five have a weak correlation but are statistically significant 
       due to extremely small p-values. 
-      
-      Further improvement in methodologies and further study is required to yield more evident results.
-      
+          
 ![image](https://user-images.githubusercontent.com/40840760/152616367-9cbd4aa4-bbef-438c-8bf1-04936fbdf3c6.png)
 
 The more black complainants are involved, the greater number of black police officers are involved.
