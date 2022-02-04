@@ -113,10 +113,15 @@ Findings:
 There are only a few data points pertaining to native police officers, and they only make up a small percentage of police officers in the dataset. Hence, it is difficult to make any conclusions on very little data. Nonetheless, the data for filing rate against Native officers for each complainant race is as follows:
 
 Unknown – 0.85%
+
 Hispanic – 0.45%
+
 White – 0.41%
+
 Blacks – 0.32%
+
 Native – 0%
+
 Asian – 0%
 
 For example, 0.45% of officers reported by Hispanics are Native.
