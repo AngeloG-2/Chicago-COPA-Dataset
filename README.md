@@ -43,18 +43,23 @@ This project consists of two files.
 ![image](https://user-images.githubusercontent.com/40840760/152616367-9cbd4aa4-bbef-438c-8bf1-04936fbdf3c6.png)
 
 The more black complainants are involved, the greater number of black police officers are involved.
+SpearmanrResult(correlation=0.25080355222253364, pvalue=1.4710339851136814e-158)
 ![image](https://user-images.githubusercontent.com/40840760/152615114-3060b0cf-ca79-46e5-a793-2b5fd5f07649.png)
 
 The more Hispanic complainants are involved, the greater number of Hispanic police officers get involved.
+SpearmanrResult(correlation=0.1733228608617746, pvalue=1.7935709043535574e-75)
 ![image](https://user-images.githubusercontent.com/40840760/152615146-d68aa539-26ae-4dc0-a9ad-e72719235c2c.png)
 
 The more white complainants are involved, the greater number of white police officers get involved.
+SpearmanrResult(correlation=0.15826798777912449, pvalue=4.4056382291695707e-63)
 ![image](https://user-images.githubusercontent.com/40840760/152615174-2e978d98-a16e-4d2b-a5d4-21d25c223c1d.png)
 
 The more Hispanic complainants are involved, the lesser number of black police officers get involved.
+SpearmanrResult(correlation=-0.17425534481387886, pvalue=2.8009639768461656e-76)
 ![image](https://user-images.githubusercontent.com/40840760/152616483-db122553-3ef4-4c79-94f3-ff3fb17b3f2d.png)
 
 The more white complainants are involved, the lesser number of black police officers get involved.
+SpearmanrResult(correlation=-0.15190808500268096, pvalue=3.349564974999276e-58)
 ![image](https://user-images.githubusercontent.com/40840760/152616498-9d8e97ad-eb3c-45f6-91ca-fc13b3e4290c.png)
 
 
