@@ -58,7 +58,7 @@ This project consists of two files.
 
 ![image](https://user-images.githubusercontent.com/40840760/149868844-d0ed4c87-1a15-4b6c-9b38-f0ee9008f601.png)
 
--------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------
 
 <p align=center> <font size="8"> <b> COMPLAINANT/OFFCIER RACE STUDY: </b> </font> </p>
  
