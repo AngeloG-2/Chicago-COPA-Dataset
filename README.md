@@ -69,7 +69,7 @@ Specifically, this section attempts to answer the following question: Are a part
 For example: Are whites more likely to file a complaint against Hispanic police officers?
 
 
-Below is a graph of relative rates of how much each complainant race files a complaint against BLACK police officers.
+<b> Below is a graph of relative rates of how much each complainant race files a complaint against BLACK police officers. </b>
 
 Findings:
 
@@ -77,11 +77,53 @@ Findings:
 2.	Hispanic complainants have the lowest rates of reporting other black police officers. (no data for natives)
 3.	White complainants have the second-lowest rates of reporting other black police officers.
 
+![image](https://user-images.githubusercontent.com/40840760/152613661-c8f9e350-1403-4283-8954-22cf31f12f40.png)
 
+<b>Below is a graph of relative rates of how much each complainant race files a complaint against HISPANIC police officers.</b>
 
+Findings:
+1.	Hispanic complainants have the highest rates of reporting other Hispanic police officers. 67% of officers reported by Hispanic complainants are Hispanic police officers.
+2.	Native complainants have the lowest rates of reporting Hispanic police officers, around 8.3%.
+3.	Whites, Unknowns and Blacks all have the same rates of filing a complaint against Hispanic police officers.
 
+![image](https://user-images.githubusercontent.com/40840760/152613717-37e2bf3d-6e7d-44d8-9f85-90cf0ea47222.png)
 
+<b> Below is a graph of relative rates of how much each complainant race files a complaint against ASIAN police officers. </b>
 
-      
+Findings:
+
+1.	Native complainants have the highest rates of filing complaints against Asian police officers. 25% of officers reported by Native complainants are Asian police officers.
+2.	Asian complainants come in second place for filing complaints against Asian police officers. 9.9% of officers reported by Asian complainants are Asian police officers.
+3.	All other races have similar rates of filing a complaint against Asian police officers.
+
+![image](https://user-images.githubusercontent.com/40840760/152613759-75a00cce-fc46-4f5c-becb-656d1a869ebb.png)
+
+<b> Below is a graph of relative rates of how much each complainant race files a complaint against WHITE police officers </b>
+
+Findings:
+
+1.	Native complainants have the highest rates of filing a complaint against a white police officer. 67% of officers reported by native complainants are white.
+2.	White complainants are close in second place to file a complaint against white police officers.
+3.	Black complainants have the lowest rates of filing complaints against white police officers. 47% of officers reported by black complainants are white officers.
+
+![image](https://user-images.githubusercontent.com/40840760/152613814-f61e0346-d8cd-4177-a0f3-80a383a2f09f.png)
+
+<b> Below is a graph of relative rates of how much each complainant race files a complaint against NATIVE police officers. </b>
+
+There are only a few data points pertaining to native police officers, and they only make up a small percentage of police officers in the dataset. Hence, it is difficult to make any conclusions on very little data. Nonetheless, the data for filing rate against Native officers for each complainant race is as follows:
+
+Unknown – 0.85%
+Hispanic – 0.45%
+White – 0.41%
+Blacks – 0.32%
+Native – 0%
+Asian – 0%
+
+For example, 0.45% of officers reported by Hispanics are Native.
+For example, 0.41% of officers reported by Whites are Native.
+
+![image](https://user-images.githubusercontent.com/40840760/152613878-e0f24ee1-3f0a-4e42-9e28-efa2b307bb5a.png)
+
+     
       
 
