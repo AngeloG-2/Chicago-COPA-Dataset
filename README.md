@@ -27,7 +27,7 @@ This project consists of two files.
 
 # Summary of Findings
 
-<font size="8"> <b> CORRELATION STUDY: </b> </font>
+<p align=center> <font size="8"> <b> CORRELATION STUDY: </b> </font> </p>
 
       1. The more black complainants are involved, the greater number of black police officers are involved.
       2. The more Hispanic complainants are involved, the greater number of Hispanic police officers are involved.
@@ -67,7 +67,6 @@ This section aims to analyze the races of police officers and races of complaina
 Specifically, this section attempts to answer the following question: Are a particular race of complainants more likely to file a complaint against a particular race of police officers?
 
 For example: Are whites more likely to file a complaint against Hispanic police officers?
-
 
 
 Below is a graph of relative rates of how much each complainant race files a complaint against BLACK police officers.
