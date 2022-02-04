@@ -32,6 +32,8 @@ This project consists of two files.
       1. The more black complainants are involved, the greater number of black police officers are involved.
       2. The more Hispanic complainants are involved, the greater number of Hispanic police officers are involved.
       3. The more white complainants are involved, the greater number of white police officers are involved.
+      4. The more Hispanic complainants are involved, the lesser number of black police officers get involved.
+      5. The more white complainants are involved, the lesser number of black police officers get involved.
 
       All three have a very weak correlation but are statistically significant 
       due to extremely small p-values. 
@@ -43,14 +45,16 @@ This project consists of two files.
 The more black complainants are involved, the greater number of black police officers are involved.
 ![image](https://user-images.githubusercontent.com/40840760/152615114-3060b0cf-ca79-46e5-a793-2b5fd5f07649.png)
 
-The more Hispanic complainants are involved, the greater number of Hispanic police officers are involved.
+The more Hispanic complainants are involved, the greater number of Hispanic police officers get involved.
 ![image](https://user-images.githubusercontent.com/40840760/152615146-d68aa539-26ae-4dc0-a9ad-e72719235c2c.png)
 
-The more white complainants are involved, the greater number of white police officers are involved.
+The more white complainants are involved, the greater number of white police officers get involved.
 ![image](https://user-images.githubusercontent.com/40840760/152615174-2e978d98-a16e-4d2b-a5d4-21d25c223c1d.png)
 
+The more Hispanic complainants are involved, the lesser number of black police officers get involved.
 ![image](https://user-images.githubusercontent.com/40840760/152616483-db122553-3ef4-4c79-94f3-ff3fb17b3f2d.png)
 
+The more white complainants are involved, the lesser number of black police officers get involved.
 ![image](https://user-images.githubusercontent.com/40840760/152616498-9d8e97ad-eb3c-45f6-91ca-fc13b3e4290c.png)
 
 
