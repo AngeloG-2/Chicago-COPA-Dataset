@@ -47,17 +47,6 @@ This project consists of two files.
 ![image](https://user-images.githubusercontent.com/40840760/150880717-91d10464-bc95-4a11-8aaf-a8c026822157.png)
 
 
-  <p align=center> <font size="8"> <b> GENERAL FACTS: </b> </font> </p>
-
-      1. Approximately 94% of complaints involve 3 or less police officers
-      2. 66% of complaints only involve 1 police officer.
-      3. 22% of complaints involve 2 police officers.
-      4. 11569 complaints inolve only 1 police officer.
-      5. 3867 complaints involve 2 police officers.
-      6. 1034 complaints involve 3 police officers.
-
-![image](https://user-images.githubusercontent.com/40840760/149868844-d0ed4c87-1a15-4b6c-9b38-f0ee9008f601.png)
-
 ------------------------------------------------------------
 
 <p align=center> <font size="8"> <b> COMPLAINANT/OFFCIER RACE STUDY: </b> </font> </p>
@@ -128,8 +117,16 @@ For example, 0.45% of officers reported by Hispanics are Native.
 
 For example, 0.41% of officers reported by Whites are Native.
 
-![image](https://user-images.githubusercontent.com/40840760/152613878-e0f24ee1-3f0a-4e42-9e28-efa2b307bb5a.png)
+------------------------------------------------------------------------------
+<p align=center> <font size="8"> <b> GENERAL FACTS: </b> </font> </p>
 
-     
+      1. Approximately 94% of complaints involve 3 or less police officers
+      2. 66% of complaints only involve 1 police officer.
+      3. 22% of complaints involve 2 police officers.
+      4. 11569 complaints inolve only 1 police officer.
+      5. 3867 complaints involve 2 police officers.
+      6. 1034 complaints involve 3 police officers.
+
+![image](https://user-images.githubusercontent.com/40840760/149868844-d0ed4c87-1a15-4b6c-9b38-f0ee9008f601.png)
       
 
