@@ -37,8 +37,8 @@ This project consists of two files.
       due to extremely small p-values. 
       
       Further improvement in methodologies and further study is required to yield more evident results.
-
-![image](https://user-images.githubusercontent.com/40840760/149868620-1cb3279e-ea3b-4cae-9ebe-f286dd806032.png)
+      
+![image](https://user-images.githubusercontent.com/40840760/152614947-b6ecc7d3-a939-41ba-a352-bb81f8f5785d.png)
 
 ![image](https://user-images.githubusercontent.com/40840760/149868710-083c25e9-42dd-492f-8b20-8bff387ce939.png)
 
