@@ -117,6 +117,9 @@ For example, 0.45% of officers reported by Hispanics are Native.
 
 For example, 0.41% of officers reported by Whites are Native.
 
+![image](https://user-images.githubusercontent.com/40840760/152614524-86a0eed0-0074-497f-b317-c7c5f45b190f.png)
+
+
 ------------------------------------------------------------------------------
 <p align=center> <font size="8"> <b> GENERAL FACTS: </b> </font> </p>
 
