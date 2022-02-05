@@ -68,7 +68,7 @@ SpearmanrResult(correlation=-0.15190808500268096, pvalue=3.349564974999276e-58)
 
 ------------------------------------------------------------
 
-<p align=center> <font size="8"> <b> COMPLAINANT/OFFCIER RACE STUDY: </b> </font> </p>
+<p align=center> <font size="8"> <b> COMPLAINANT/OFFICER RACE STUDY: </b> </font> </p>
  
 This section aims to analyze the races of police officers and races of complainants involved in mistreatment allegations.
 
