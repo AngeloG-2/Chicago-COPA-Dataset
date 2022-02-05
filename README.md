@@ -37,8 +37,8 @@ This project consists of two files.
 
       All five have a weak correlation but are statistically significant 
       due to extremely small p-values. 
-          
-![image](https://user-images.githubusercontent.com/40840760/152616367-9cbd4aa4-bbef-438c-8bf1-04936fbdf3c6.png)
+ 
+![image](https://user-images.githubusercontent.com/40840760/152620963-3db026bd-9fd0-466a-8347-c7192ab3e4f9.png)
 
 The more black complainants are involved, the greater number of black police officers are involved.
 SpearmanrResult(correlation=0.25080355222253364, pvalue=1.4710339851136814e-158)
