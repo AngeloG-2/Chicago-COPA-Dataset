@@ -117,12 +117,13 @@ We can see that the most frequent excessive force complainants are in the follow
 
 <p align=center> <font size="8"> <b> COMPLAINANT/OFFICER RACE STUDY: </b> </font> </p>
  
+A complaint has two sides, complainants, who believe they were mistreated in some way by police officers, and the police officers themselves.
+
 This section aims to analyze the races of police officers and races of complainants involved in mistreatment allegations.
 
 Specifically, this section attempts to answer the following question: Are a particular race of complainants more likely to file a complaint against a particular race of police officers?
 
 For example: Are whites more likely to file a complaint against Hispanic police officers?
-
 
 <b> Below is a graph of relative rates of how much each complainant race files a complaint against BLACK police officers. </b>
 
