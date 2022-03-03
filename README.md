@@ -115,7 +115,7 @@ We can see that the most frequent excessive force complainants are in the follow
 
 ------------------------------------------------------------
 
-<p align=center> <font size="8"> <b> COMPLAINANT/OFFICER RACE STUDY: </b> </font> </p>
+<p align=center> <font size="8"> <b> Analyzing the Races of Complainants and Police Officers   </b> </font> </p>
  
 A complaint has two sides, complainants, who believe they were mistreated in some way by police officers, and the police officers themselves.
 
