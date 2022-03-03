@@ -65,6 +65,55 @@ SpearmanrResult(correlation=-0.15190808500268096, pvalue=3.349564974999276e-58)
 
 ![image](https://user-images.githubusercontent.com/40840760/152616498-9d8e97ad-eb3c-45f6-91ca-fc13b3e4290c.png)
 
+------------------------------------------------------------
+
+<p align=center> <font size="8"> <b> Analysis of Races of Complainants Involved In Mistreatment Allegations </b> </font> </p>
+
+This section analyzes the race distribution of complainants involved in police mistreatment allegations.
+
+First, let us look at the race distribution from allegations between 2008 to 2018. About 71% of complainants are black. While Hispanics make up 14.4% of complainants and Whites, make up 10.4% of complainants. The other 4.2% are of other or unknown races.
+
+![image](https://user-images.githubusercontent.com/40840760/156479211-42aa99b5-da83-4a99-b17e-980b91a4db8d.png)
+
+As you can see above, blacks are disproportionately represented as complainants. Is it possible that Chicago is primarily black? This would explain the results. However, this is not the case. In 2016, 29.3% of people living in Chicago were black, yet blacks make up 70.5% of all complainants in mistreatment allegations.
+
+Now the question is: have blacks always made up the majority of complainants?
+
+To analyze this, I created a graph below.
+
+The graph below shows the percentage contribution of each complainant race between 2008 and 2018. The chart is interpreted like this: in 2010, approximately 18% of complainants were Hispanic.  
+
+![image](https://user-images.githubusercontent.com/40840760/156479304-84c4af6b-d5cb-42af-8e87-29eb683b226f.png)
+
+From 2008 to 2018, blacks make up the majority of complainants by a substantial margin. In 2011, the percentage contribution of black complainants was at its peak when 73.9% of complainants were black.
+
+Moving on to analyzing the percentage contribution of Native, Asian, Hispanic, and Whites. I created the graph below, similar to the graph above, except Blacks are excluded in the chart.
+
+![image](https://user-images.githubusercontent.com/40840760/156479374-23c8d428-8afd-4dae-801c-a6bff68c750d.png)
+
+Interestingly, the percentage of complainants that are Natives, Asians, Hispanics, and Whites has remained stable over 10 years. However, a larger percentage of complainants have Unknown races. The percentage contribution of complainants of Unknown races has increased from 1.03% in 2011 to 6.19% in 2018.
+
+So far, I have analyzed the race distribution of complainants in two ways,  on a year-by-year basis and an aggregate level from 2008 to 2018. My analysis did not include taking into account the type of mistreatment allegation. There are 20 types of mistreatment allegations in the dataset. A list of mistreatment allegations is provided by the image below.
+
+![image](https://user-images.githubusercontent.com/40840760/156479412-06dac887-e69c-496c-982b-4ba576160c88.png)
+
+I will analyze the race distribution of complainants on a year-by-year basis grouped by the mistreatment allegation.
+
+For example, I will analyze Excessive Force allegations. This is the most common type of allegation
+
+![image](https://user-images.githubusercontent.com/40840760/156479452-9da45882-e05d-4a5d-8f1b-8e4875b7cf67.png)
+
+For Excessive Force complaints, blacks make up the largest percentage of complainants by a huge margin, with an average percentage of 70.9% between 2008 and 2018.
+
+![image](https://user-images.githubusercontent.com/40840760/156479478-30f30456-d146-4a81-84ed-972d5e48ffdc.png)
+
+Looking more closely into the trend for black complainants, there was a massive spike in the percentage of black complainants for excessive force complaints. The percentage in 2017 was 66%, and in 2018, the percentage was 75%, the highest percentage value between 2008 to 2018.
+
+Now, I will analyze the percentage of complainants that are other races involved in excessive force complaints.
+
+![image](https://user-images.githubusercontent.com/40840760/156479506-7d78acc4-737e-447e-b798-b8f504237c3b.png)
+
+We can see that the most frequent excessive force complainants are in the following order: Blacks, Hispanics, Whites, Unknown, Asians, and Natives. The percentage of complainants that are non-black have remained stable from 2008 to 2017. However, in 2018, there is a massive shift in the percentage frequency for all complainant races. For example, the percentage of complainants that are Whites have decreased from 13% to 6.43%. Similarly, percentage of complainants are of Unknown races have increased from 2.64% to 5.6%. 
 
 ------------------------------------------------------------
 
