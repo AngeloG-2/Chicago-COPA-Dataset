@@ -7,13 +7,23 @@ The Dataset used in this project can be found at: https://www.kaggle.com/chicago
 # Quick Description of Dataset
 
 1. Each row is a complaint by a person(s) submitted to an internal review board with an allegation that a police officer mistreated them in some way. 
-2. The data is from the Chicago Police Department
+2. Police complaints has two parties. The complainants and police officers. 
+3. The data is from the Chicago Police Department
+
+# Purpose of Project
+
+The goal of the project is to perform a comprehensive deep-dive analysis of the following:
+
+1. Analyze the races of complainants who filed different mistreatment allegations.
+2. Analyze the races of police officers who allegedly mistreated civilians.
+3. Determine if a particular race of complainants is more likely to file a complaint against a specific race of police officers.
+4. Time-series analysis of the frequency of each mistreatment allegation.
 
 # Files Description
 
 NOTE: This project is a work in progress.
 
-This project consists of two files.
+This project consists of four files.
 
 1. Chicago COPA - Data Cleaning.ipynb -> This notebook focuses on cleaning and transforming raw data into more useful forms. Unfortunately, some columns in this dataset are extremely dirty and I had to perform extensive data cleaning.
 
@@ -26,6 +36,8 @@ This project consists of two files.
 # Summary of Findings
 
 <p align=center> <font size="8"> <b> CORRELATION STUDY: </b> </font> </p>
+
+Police complaints have two parties: the complainants and police officers. The correlation study aims to analyze correlations between the number of complainants and police officers involved in complaints. Below are the findings from the correlation analysis.
 
       1. The more black complainants are involved, the greater number of black police officers are involved.
       2. The more Hispanic complainants are involved, the greater number of Hispanic police officers are involved.
