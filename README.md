@@ -48,6 +48,7 @@ Police complaints have two parties: the complainants and police officers. The co
       All five have a weak correlation but are statistically significant 
       due to extremely small p-values. 
 
+![image](https://user-images.githubusercontent.com/40840760/158307213-195b1c66-4b67-4590-af04-7f91c1c52508.png)
 
 ------------------------------------------------------------
 
