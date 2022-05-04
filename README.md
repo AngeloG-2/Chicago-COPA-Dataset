@@ -227,6 +227,23 @@ For example, 0.41% of officers reported by Whites are Native.
 
 ![image](https://user-images.githubusercontent.com/40840760/152614524-86a0eed0-0074-497f-b317-c7c5f45b190f.png)
 
+------------------------------------------------------------------------------
+<p align=center> <font size="8"> <b> CORRELATION STUDY: </b> </font> </p>
+
+Police complaints have two parties: the complainants and police officers. The correlation study aims to analyze correlations between the number of complainants and police officers involved in complaints. Below are the findings from the correlation analysis.
+
+      1. The more black complainants are involved, the greater number of black police officers are involved.
+      2. The more Hispanic complainants are involved, the greater number of Hispanic police officers are involved.
+      3. The more white complainants are involved, the greater number of white police officers are involved.
+      4. The more Hispanic complainants are involved, the lesser number of black police officers get involved.
+      5. The more white complainants are involved, the lesser number of black police officers get involved.
+
+      All five have a weak correlation but are statistically significant 
+      due to extremely small p-values. 
+
+![image](https://user-images.githubusercontent.com/40840760/158307213-195b1c66-4b67-4590-af04-7f91c1c52508.png)
+
+
 
 ------------------------------------------------------------------------------
 <p align=center> <font size="8"> <b> GENERAL FACTS: </b> </font> </p>
