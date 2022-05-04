@@ -1,6 +1,4 @@
-<b> NOTE: This project is a current work in progess. </b>
-
-<b> NOTE #2: A summary of insights found in the dataset is available below. </b>
+<b> NOTE: A summary of insights found in the dataset is available below. </b>
 
 # Chicago-COPA-Dataset
 
