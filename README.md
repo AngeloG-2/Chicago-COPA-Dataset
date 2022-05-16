@@ -1,4 +1,4 @@
-<b> NOTE: A summary of insights found in the dataset is available below. </b>
+<b> NOTE: Insights and patterns discovered in the dataset are found if you scroll down to the "Summary of Findings" section of this page.  </b>
 
 # Chicago-COPA-Dataset
 
@@ -20,8 +20,6 @@ The goal of the project is to perform a comprehensive deep-dive analysis of the 
 4. Time-series analysis of the frequency of each mistreatment allegation.
 
 # Files Description
-
-NOTE: This project is a work in progress.
 
 This project consists of four files.
 
